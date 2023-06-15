@@ -1,0 +1,2 @@
+class LoadSceneError(Exception):
+    pass
